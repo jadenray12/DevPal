@@ -10,6 +10,7 @@ setup(
         "fastapi",
         "uvicorn",
         "requests",
+        "pydantic",
     ],
     entry_points={
         "console_scripts": [

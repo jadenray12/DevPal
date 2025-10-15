@@ -14,7 +14,7 @@ def start_server_if_needed():
 
     # Start server as a background process
     subprocess.Popen(
-        ["uvicorn", "backend.main:app", "--host", "127.0.0.1", "--port", "8000"],
+        ["uvicorn", "backend.main:app", "--host", "127.0.0.1", "--port", "8000", '--reload'],
         stdout=subprocess.DEVNULL,
         stderr=subprocess.DEVNULL,
     )

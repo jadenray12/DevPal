@@ -1,2 +1,5 @@
 typer
 setuptools
+fastapi
+uvicorn
+requests

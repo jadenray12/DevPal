@@ -7,6 +7,9 @@ setup(
     install_requires=[
         "typer",
         "setuptools",
+        "fastapi",
+        "uvicorn",
+        "requests",
     ],
     entry_points={
         "console_scripts": [

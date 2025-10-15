@@ -3,4 +3,7 @@ Name: devpal
 Version: 0.1.0
 Requires-Dist: typer
 Requires-Dist: setuptools
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: requests
 Dynamic: requires-dist

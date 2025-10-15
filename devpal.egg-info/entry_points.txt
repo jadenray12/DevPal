@@ -1,0 +1,2 @@
+[console_scripts]
+devpal = cli.main:main

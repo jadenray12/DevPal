@@ -1,0 +1,15 @@
+README.md
+setup.py
+backend/__init__.py
+backend/main.py
+backend/routes/__init__.py
+cli/__init__.py
+cli/main.py
+cli/commands/__init__.py
+cli/commands/commit.py
+devpal.egg-info/PKG-INFO
+devpal.egg-info/SOURCES.txt
+devpal.egg-info/dependency_links.txt
+devpal.egg-info/entry_points.txt
+devpal.egg-info/requires.txt
+devpal.egg-info/top_level.txt

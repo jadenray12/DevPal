@@ -6,4 +6,5 @@ Requires-Dist: setuptools
 Requires-Dist: fastapi
 Requires-Dist: uvicorn
 Requires-Dist: requests
+Requires-Dist: pydantic
 Dynamic: requires-dist

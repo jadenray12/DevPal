@@ -4,3 +4,8 @@ fastapi
 uvicorn
 requests
 pydantic
+requests
+langchain
+langchain-groq
+groq
+dotenv

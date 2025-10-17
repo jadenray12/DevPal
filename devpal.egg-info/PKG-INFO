@@ -7,4 +7,9 @@ Requires-Dist: fastapi
 Requires-Dist: uvicorn
 Requires-Dist: requests
 Requires-Dist: pydantic
+Requires-Dist: requests
+Requires-Dist: langchain
+Requires-Dist: langchain-groq
+Requires-Dist: groq
+Requires-Dist: dotenv
 Dynamic: requires-dist

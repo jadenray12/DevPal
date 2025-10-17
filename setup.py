@@ -11,6 +11,11 @@ setup(
         "uvicorn",
         "requests",
         "pydantic",
+        "requests",
+        "langchain",
+        "langchain-groq",
+        "groq",
+        "dotenv",
     ],
     entry_points={
         "console_scripts": [
